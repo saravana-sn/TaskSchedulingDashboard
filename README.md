@@ -16,7 +16,7 @@ Mini Project made in SE.
 |     Admin  |    User     |
 |------------|-------------|
 | <img src="https://github.com/saravana-sn/TaskSchedulingDashboard/blob/master/Screenshots/mp6.png?raw=true" width="500"> | <img src="https://github.com/saravana-sn/TaskSchedulingDashboard/blob/master/Screenshots/mp17.png?raw=true" width="500"> |
-| <img src="https://github.com/saravana-sn/TaskSchedulingDashboard/blob/master/Screenshots/mp7.png?raw=true" width="500"> <br> **When Unassigned User Enters the Progress** | <img src="https://github.com/saravana-sn/TaskSchedulingDashboard/blob/master/Screenshots/mp18.png?raw=true" width="500"> |
+| <img src="https://github.com/saravana-sn/TaskSchedulingDashboard/blob/master/Screenshots/mp7.png?raw=true" width="500">  | <img src="https://github.com/saravana-sn/TaskSchedulingDashboard/blob/master/Screenshots/mp18.png?raw=true" width="500"> <br> **When Unassigned User Enters the Progress** |
 
 **Sample Admin and User Profiles**
 
