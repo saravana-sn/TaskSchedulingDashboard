@@ -1,0 +1,141 @@
+[
+{"type":"header","version":"5.0.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"users_db"},
+{"type":"table","name":"addpeople","database":"users_db","data":
+[
+{"aid":"18","id":"14","lid":"7","Task number":"52004"},
+{"aid":"19","id":"14","lid":"14","Task number":"52004"},
+{"aid":"20","id":"13","lid":"2","Task number":"51004"},
+{"aid":"21","id":"13","lid":"3","Task number":"51004"},
+{"aid":"22","id":"13","lid":"4","Task number":"51004"}
+]
+}
+,{"type":"table","name":"admin","database":"users_db","data":
+[
+{"id":"1","full_name":"Anosh Nagarkar","username":"Anosh","password":"12345","phone":"9876543201","emailid":"anosh@gamail.com","gender":"Male"},
+{"id":"6","full_name":"Saravana sundar Nadar","username":"Saravana","password":"12345","phone":"1234567890","emailid":"saravana@gmail.com","gender":"Male"}
+]
+}
+,{"type":"table","name":"past addpeople","database":"users_db","data":
+[
+{"aid":"24","id":"10","lid":"7","Task_number":"41004"},
+{"aid":"25","id":"10","lid":"5","Task_number":"41004"},
+{"aid":"26","id":"10","lid":"2","Task_number":"41004"},
+{"aid":"27","id":"10","lid":"7","Task_number":"41005"},
+{"aid":"28","id":"10","lid":"8","Task_number":"41005"},
+{"aid":"29","id":"14","lid":"5","Task_number":"52003"},
+{"aid":"30","id":"14","lid":"7","Task_number":"52003"},
+{"aid":"31","id":"5","lid":"1","Task_number":"22004"},
+{"aid":"32","id":"5","lid":"2","Task_number":"22004"},
+{"aid":"33","id":"20","lid":"5","Task_number":"72003"},
+{"aid":"34","id":"20","lid":"6","Task_number":"72003"},
+{"aid":"35","id":"16","lid":"2","Task_number":"61003"},
+{"aid":"36","id":"16","lid":"3","Task_number":"61003"},
+{"aid":"37","id":"16","lid":"4","Task_number":"61003"},
+{"aid":"38","id":"8","lid":"3","Task_number":"32003"},
+{"aid":"39","id":"8","lid":"4","Task_number":"32003"},
+{"aid":"40","id":"2","lid":"2","Task_number":"12007"},
+{"aid":"41","id":"2","lid":"3","Task_number":"12007"},
+{"aid":"42","id":"10","lid":"2","Task_number":"41006"},
+{"aid":"43","id":"10","lid":"4","Task_number":"41006"},
+{"aid":"44","id":"10","lid":"5","Task_number":"41006"},
+{"aid":"45","id":"11","lid":"2","Task_number":"42006"},
+{"aid":"46","id":"11","lid":"14","Task_number":"42006"},
+{"aid":"47","id":"12","lid":"1","Task_number":"43005"},
+{"aid":"48","id":"12","lid":"3","Task_number":"43005"},
+{"aid":"49","id":"12","lid":"4","Task_number":"43005"},
+{"aid":"50","id":"4","lid":"7","Task_number":"21006"},
+{"aid":"51","id":"4","lid":"14","Task_number":"21006"},
+{"aid":"52","id":"5","lid":"7","Task_number":"22006"},
+{"aid":"53","id":"5","lid":"14","Task_number":"22006"},
+{"aid":"54","id":"6","lid":"7","Task_number":"23003"},
+{"aid":"55","id":"6","lid":"14","Task_number":"23003"},
+{"aid":"56","id":"20","lid":"2","Task_number":"72004"},
+{"aid":"57","id":"20","lid":"5","Task_number":"72004"},
+{"aid":"58","id":"20","lid":"6","Task_number":"72004"}
+]
+}
+,{"type":"table","name":"past task","database":"users_db","data":
+[
+{"ID":"30","TaskName":"Making TimeTabl","StartDate":"2021-05-15","EndDate":"2021-05-31","Progress":"0","Task number":"41004"},
+{"ID":"31","TaskName":"R&D Lectures","StartDate":"2021-05-15","EndDate":"2021-05-31","Progress":"76","Task number":"51003"},
+{"ID":"32","TaskName":"Making TimeTabl","StartDate":"2021-05-15","EndDate":"2021-05-29","Progress":"0","Task number":"41005"},
+{"ID":"33","TaskName":"R&D Practicals","StartDate":"2021-05-15","EndDate":"2021-05-22","Progress":"0","Task number":"52003"},
+{"ID":"34","TaskName":"Providing Ideas","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"61002"},
+{"ID":"35","TaskName":"Project Approva","StartDate":"2021-05-22","EndDate":"2021-05-29","Progress":"0","Task number":"62003"},
+{"ID":"36","TaskName":"SOS","StartDate":"2021-05-21","EndDate":"2021-05-28","Progress":"0","Task number":"22004"},
+{"ID":"37","TaskName":"R&D Lectures","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"51003"},
+{"ID":"38","TaskName":"Toppers List","StartDate":"2021-05-22","EndDate":"2021-05-28","Progress":"0","Task number":"72003"},
+{"ID":"39","TaskName":"Providing Ideas","StartDate":"2021-05-14","EndDate":"2021-05-27","Progress":"100","Task number":"61003"},
+{"ID":"40","TaskName":"Monitoring Atte","StartDate":"2021-05-22","EndDate":"2021-05-27","Progress":"0","Task number":"32003"},
+{"ID":"41","TaskName":"Iat T.T","StartDate":"2021-05-21","EndDate":"2021-05-28","Progress":"0","Task number":"12007"},
+{"ID":"42","TaskName":"Iat T.T","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"12007"},
+{"ID":"43","TaskName":"Subject Prefere","StartDate":"2021-05-20","EndDate":"2021-05-27","Progress":"0","Task number":"42005"},
+{"ID":"44","TaskName":"Finalizing Topi","StartDate":"2021-05-24","EndDate":"2021-05-31","Progress":"60","Task number":"21005"},
+{"ID":"45","TaskName":"Alloting Subjec","StartDate":"2021-05-22","EndDate":"2021-05-29","Progress":"0","Task number":"43004"},
+{"ID":"46","TaskName":"Arranging Meeti","StartDate":"2021-05-25","EndDate":"2021-05-30","Progress":"0","Task number":"31003"},
+{"ID":"47","TaskName":"Iat T.T","StartDate":"2021-05-27","EndDate":"2021-05-27","Progress":"0","Task number":"12008"},
+{"ID":"48","TaskName":"Submitting Repo","StartDate":"2021-05-28","EndDate":"2021-05-31","Progress":"0","Task number":"82003"},
+{"ID":"49","TaskName":"Display Achievements","StartDate":"2021-05-27","EndDate":"2021-05-28","Progress":"0","Task number":"73003"},
+{"ID":"50","TaskName":"Project Approval","StartDate":"2021-05-21","EndDate":"2021-05-28","Progress":"0","Task number":"62004"},
+{"ID":"51","TaskName":"Making TimeTable","StartDate":"2021-05-28","EndDate":"2021-05-31","Progress":"52","Task number":"41006"},
+{"ID":"52","TaskName":"Subject Preference","StartDate":"2021-05-27","EndDate":"2021-05-31","Progress":"0","Task number":"42006"},
+{"ID":"53","TaskName":"Allotting Subjects","StartDate":"2021-05-29","EndDate":"2021-05-30","Progress":"0","Task number":"43005"},
+{"ID":"54","TaskName":"Finalizing Topics","StartDate":"2021-05-28","EndDate":"2021-05-30","Progress":"0","Task number":"21006"},
+{"ID":"55","TaskName":"Submission of synopsis","StartDate":"2021-05-28","EndDate":"2021-05-30","Progress":"0","Task number":"22006"},
+{"ID":"56","TaskName":"Arranging Presentations","StartDate":"2021-05-28","EndDate":"2021-05-31","Progress":"0","Task number":"23003"},
+{"ID":"57","TaskName":"Display Toppers List","StartDate":"2021-05-28","EndDate":"2021-05-31","Progress":"52","Task number":"72004"}
+]
+}
+,{"type":"table","name":"properties2","database":"users_db","data":
+[
+{"id":"1","TaskName":"Display T.T","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"11004","Priority":"0"},
+{"id":"2","TaskName":"Iat T.T","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"12008","Priority":"0"},
+{"id":"3","TaskName":"Iat portion","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"13004","Priority":"0"},
+{"id":"4","TaskName":"Finalizing Topics","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"21006","Priority":"1"},
+{"id":"5","TaskName":"Submission of synopsis","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"22006","Priority":"1"},
+{"id":"6","TaskName":"Arranging Presentations","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"23003","Priority":"2"},
+{"id":"7","TaskName":"Arranging Meetings","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"31003","Priority":"0"},
+{"id":"8","TaskName":"Monitoring Attendance","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"32003","Priority":"0"},
+{"id":"9","TaskName":"Defaulter List","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"33002","Priority":"0"},
+{"id":"10","TaskName":"Making TimeTable","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"41006","Priority":"2"},
+{"id":"11","TaskName":"Subject Preference","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"42006","Priority":"2"},
+{"id":"12","TaskName":"Allotting Subjects","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"43005","Priority":"1"},
+{"id":"13","TaskName":"R&D Lectures","StartDate":"2021-05-29","EndDate":"2021-05-31","Progress":"45","Task number":"51004","Priority":"2"},
+{"id":"14","TaskName":"R&D Practicals","StartDate":"2021-05-28","EndDate":"2021-05-31","Progress":"20","Task number":"52004","Priority":"2"},
+{"id":"15","TaskName":"Keeping Records","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"53002","Priority":"2"},
+{"id":"16","TaskName":"Providing Ideas","StartDate":"2021-05-27","EndDate":"2021-05-31","Progress":"0","Task number":"61004","Priority":"1"},
+{"id":"17","TaskName":"Project Approval","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"62004","Priority":"2"},
+{"id":"18","TaskName":"Arranging Presentations","StartDate":"2021-05-27","EndDate":"2021-05-31","Progress":"0","Task number":"63003","Priority":"0"},
+{"id":"19","TaskName":"Updating Notice Board","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"71002","Priority":"0"},
+{"id":"20","TaskName":"Display Toppers List","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"72004","Priority":"1"},
+{"id":"21","TaskName":"Display Achievements","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"73003","Priority":"0"},
+{"id":"22","TaskName":"Providing Guidlines","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"81002","Priority":"0"},
+{"id":"23","TaskName":"Submitting Report","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"82003","Priority":"0"},
+{"id":"24","TaskName":"Collect Student Details","StartDate":"1970-01-01","EndDate":"1970-01-01","Progress":"0","Task number":"83002","Priority":"0"}
+]
+}
+,{"type":"table","name":"users","database":"users_db","data":
+[
+{"id":"1","full_name":"Luke Ricky","username":"Ricky","password":"12345","phone":"1234567890","emailid":"lukericky13@gmail.com","gender":"Male"},
+{"id":"2","full_name":"Sai","username":"Sai","password":"12345","phone":"00000000","emailid":"sai@gmail.com","gender":"Male"},
+{"id":"3","full_name":"Rohit Sharma","username":"Rohit","password":"Sharma","phone":"1234567890","emailid":"rohit@gmail.com","gender":"Male"},
+{"id":"4","full_name":"Sachin Tendulkar","username":"Sachin","password":"Tendulkar","phone":"9786524316","emailid":"sachin@gmail.com","gender":"Male"},
+{"id":"5","full_name":"Virat Kholi","username":"Virat","password":"Kholi","phone":"1234567890","emailid":"virat@gmail.com","gender":"Male"},
+{"id":"6","full_name":"Rishabh Pant","username":"Rishabh","password":"Pant","phone":"3241567897","emailid":"six@gmail.com","gender":"Male"},
+{"id":"7","full_name":"Saravana sundar Nadar","username":"Saravana","password":"12345","phone":"1234567890","emailid":"saravana@gmail.com","gender":"Male"},
+{"id":"14","full_name":"Rajesh Kumar","username":"Rajesh","password":"12345","phone":"123456789","emailid":"saravana.sn05@gmail.com","gender":"Male"},
+{"id":"15","full_name":"Mahesh","username":"Mahesh","password":"12345","phone":"12345","emailid":"saravana.sn05@gmail.com","gender":"Male"},
+{"id":"16","full_name":"Mohit","username":"Mohit","password":"12345","phone":"1525252","emailid":"nadarsst@gmail.com","gender":"Male"},
+{"id":"17","full_name":"Jasprit Bumrah","username":"Jasprit","password":"Bumrah","phone":"1234567890","emailid":"yorker@gmail.com","gender":"Male"},
+{"id":"18","full_name":"Abhishek","username":"Abhishek","password":"12345","phone":"1234567","emailid":"nadarsst@gmail.com","gender":"Male"},
+{"id":"19","full_name":"Rishabh Pant","username":"Rishabh","password":"Pant","phone":"3241567897","emailid":"six@gmail.com","gender":"Male"},
+{"id":"20","full_name":"Sai","username":"Sai","password":"12345","phone":"00000000","emailid":"sai@gmail.com","gender":"Male"}
+]
+}
+,{"type":"table","name":"users1","database":"users_db","data":
+[
+
+]
+}
+]
