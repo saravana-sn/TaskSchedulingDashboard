@@ -135,4 +135,8 @@
 |18 |Abhishek               |Abhishek  |12345      |1234567   |nadar@gmail.com     |Male    |
 |19 |Rishabh Pant           |Rishabh   |Pant       |3241567897|six@gmail.com          |Male    |
 |20 |Sai                    |Sai       |12345      |00000000  |sai@gmail.com          |Male    |
+
+**users1**
+
 |id |full_name              |username  |password   |phone     |emailid                |gender  |
+|---|-----------------------|----------|-----------|----------|-----------------------|--------|
