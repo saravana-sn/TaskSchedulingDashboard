@@ -11,12 +11,14 @@
  **admin**       
 
 |id |full_name              |username  |password   |phone     |emailid                |gender  |
+|---|-----------------------|----------|-----------|----------|-----------------------|--------|
 |1  |Anosh Nagarkar         |Anosh     |12345      |9876543201|anosh@gamail.com       |Male    |
 |6  |Saravana sundar Nadar  |Saravana  |12345      |1234567890|saravana@gmail.com     |Male    |
 
  **past addpeople** 
 
-|aid|id                     |lid       |Task_number|    
+|aid|id                     |lid       |Task_number|
+|---|-----------------------|----------|-----------|
 |24 |10                     |7         |41004      |      
 |25 |10                     |5         |41004      |         
 |26 |10                     |2         |41004      |         
@@ -55,7 +57,8 @@
 
  **past task** 
 
-|ID |TaskName               |StartDate |EndDate    |Progress  |Task number            |        
+|ID |TaskName               |StartDate |EndDate    |Progress  |Task number            |  
+|---|-----------------------|----------|-----------|----------|-----------------------|
 |30 |Making TimeTabl        |2021-05-15|2021-05-31 |0         |41004                  |        
 |31 |R&D Lectures           |2021-05-15|2021-05-31 |76        |51003                  |        
 |32 |Making TimeTabl        |2021-05-15|2021-05-29 |0         |41005                  |        
@@ -88,6 +91,7 @@
  **properties2**
  
 |id |TaskName               |StartDate |EndDate    |Progress  |Task number            |Priority|
+|---|-----------------------|----------|-----------|----------|-----------------------|--------|
 |1  |Display T.T            |1970-01-01|1970-01-01 |0         |11004                  |0       |
 |2  |Iat T.T                |1970-01-01|1970-01-01 |0         |12008                  |0       |
 |3  |Iat portion            |1970-01-01|1970-01-01 |0         |13004                  |0       |
@@ -116,18 +120,23 @@
  **users** 
 
 |id |full_name              |username  |password   |phone     |emailid                |gender  |
-|1  |Luke Ricky             |Ricky     |12345      |1234567890|lukericky13@gmail.com  |Male    |
+|---|-----------------------|----------|-----------|----------|-----------------------|--------|
+|1  |Luke Ricky             |Ricky     |12345      |1234567890|lukericky@gmail.com  |Male    |
 |2  |Sai                    |Sai       |12345      |00000000  |sai@gmail.com          |Male    |
 |3  |Rohit Sharma           |Rohit     |Sharma     |1234567890|rohit@gmail.com        |Male    |
 |4  |Sachin Tendulkar       |Sachin    |Tendulkar  |9786524316|sachin@gmail.com       |Male    |
 |5  |Virat Kholi            |Virat     |Kholi      |1234567890|virat@gmail.com        |Male    |
 |6  |Rishabh Pant           |Rishabh   |Pant       |3241567897|six@gmail.com          |Male    |
 |7  |Saravana sundar Nadar  |Saravana  |12345      |1234567890|saravana@gmail.com     |Male    |
-|14 |Rajesh Kumar           |Rajesh    |12345      |123456789 |saravana.sn05@gmail.com|Male    |
-|15 |Mahesh                 |Mahesh    |12345      |12345     |saravana.sn05@gmail.com|Male    |
+|14 |Rajesh Kumar           |Rajesh    |12345      |123456789 |saravana@gmail.com|Male    |
+|15 |Mahesh                 |Mahesh    |12345      |12345     |saravana@gmail.com|Male    |
 |16 |Mohit                  |Mohit     |12345      |1525252   |nadarsst@gmail.com     |Male    |
 |17 |Jasprit Bumrah         |Jasprit   |Bumrah     |1234567890|yorker@gmail.com       |Male    |
-|18 |Abhishek               |Abhishek  |12345      |1234567   |nadarsst@gmail.com     |Male    |
+|18 |Abhishek               |Abhishek  |12345      |1234567   |nadar@gmail.com     |Male    |
 |19 |Rishabh Pant           |Rishabh   |Pant       |3241567897|six@gmail.com          |Male    |
 |20 |Sai                    |Sai       |12345      |00000000  |sai@gmail.com          |Male    |
+
+**users1**
+
 |id |full_name              |username  |password   |phone     |emailid                |gender  |
+|---|-----------------------|----------|-----------|----------|-----------------------|--------|
